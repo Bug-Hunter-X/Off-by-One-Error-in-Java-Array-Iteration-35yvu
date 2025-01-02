@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating through arrays.  The provided code attempts to access an array element beyond its bounds.  The solution showcases how to correctly iterate to avoid this error. This is a subtle but important bug to understand, as it can lead to unexpected crashes and unpredictable behaviour.
